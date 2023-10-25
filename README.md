@@ -30,7 +30,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/harishragav272003/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119345345/f66b67c0-8a5e-4841-86f0-28121fd43257)
+
 
 
 ### Name: HARISH RAGAV S
